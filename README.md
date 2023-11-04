@@ -20,8 +20,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Make an Administrator Account
 - Create Agents
 - Create Service Level Agreements
-- Item 4
-- Item 5
+- Create and Answer Tickets
 
 <h2>Configuration Steps</h2>
 
@@ -38,7 +37,15 @@ Once osTicket is installed, I begin to create the admin account to essentially c
 <img src="https://i.imgur.com/4bdIgjy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now I must creat 
+Now I must create agents accounts that will act as an employee of a company. The agents answer tickets of clients that need technical support. Agents can be order to answer a ticket from management. The tickets can require immediate attention or can be address in a timely manner. Some companies have Service Level Agreements and SLA are a target the agent have to meet pertaining tickets such as
+  - How quickly a ticket is a assigned to an agent
+  - How quickly the agent initially reach out to the user who created the ticket
+  - How often the agent communicate with the user until the issue is solved
+  - How quickly the issue is solve
+Tickets will often have a severity assigned to them which is defined by the organization, but the severity is usually related to the business impact. Severity often defines the SLA.
+  - Severity-A: High Impact(1hour, 24/7)
+  - Severity-B: Medium Impact(4hour, 24/7)
+  - Severity-C: Low Impact(8hour, Business hours)
 </p>
 <br />
 
