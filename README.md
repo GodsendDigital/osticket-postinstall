@@ -37,7 +37,13 @@ Once osTicket is installed, I begin to create the admin account to essentially c
 <img src="https://i.imgur.com/4bdIgjy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now I must create agents accounts that will act as an employee of a company. The agents answer tickets of clients that need technical support. Agents can be order to answer a ticket from management. The tickets can require immediate attention or can be address in a timely manner. Some companies have Service Level Agreements and SLA are a target the agent have to meet pertaining tickets such as
+Now I must create agents accounts that will act as an employee of a company. The agents day to day tasks will be focus on working trouble tickets. Agents can be order to answer a ticket from management, end users, and clients. The tickets can require immediate attention or can be address in a timely manner. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/FqL5uA1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Some companies have Service Level Agreements and SLA are a target the agent have to meet pertaining tickets such as
 <ul>
  <li>How quickly a ticket is a assigned to an agent</li>
  <li>How quickly the agent initially reach out to the user who created the ticket</li>
@@ -50,13 +56,21 @@ Tickets will often have a severity assigned to them which is defined by the orga
   <li>Severity-B: Medium Impact(4hour, 24/7)</li>
   <li>Severity-C: Low Impact(8hour, Business hours)</li>
 </ul>    
+Common issues that users face at a business are
+<ul>
+  <li>Passwords/Credential Reset</li>
+  <li>Equipment Problems</li>
+  <li>Software Installation or Upgrade</li>
+  <li>Computer or Internet Slow Speed</li>
+  <li>Printer Issues</li>
+  <li>VPN/Connectivity Issues</li>
+</ul>   
 </p>
-<br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ <img src="https://i.imgur.com/TnFJN0f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/TUSk9xF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="[https://imgur.com/a/oeLi2D4 ](https://i.imgur.com/cXQ6qpm.png)height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Now I create a ticket so, I can answer it and resolve it myself as a user and agent. First go to the regular site for end users and put in a ticket. After that i log in as an agent and the ticket will appear. I open the ticket and 
 </p>
 <br />
