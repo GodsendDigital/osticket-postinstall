@@ -70,7 +70,10 @@ Common issues that users face at a business are
 <p>
  <img src="https://i.imgur.com/TnFJN0f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <img src="https://i.imgur.com/TUSk9xF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <img src="https://i.imgur.com/cXQ6qpm.png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/WZkufPt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/cXQ6qpm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+ <br>
 Now I create a ticket so, I can answer it and resolve it myself as a user and agent. First go to the regular site for end users and put in a ticket. After that i log in as an agent and the ticket will appear. I open the ticket and proceed to solve the problem. As the admin I can assign tickets to or other agents and place the ticket for a certain team. After the problem solved, I have to write a brief summary on the update and close the ticket.
 </p>
 <br />
