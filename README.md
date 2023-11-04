@@ -39,16 +39,16 @@ Once osTicket is installed, I begin to create the admin account to essentially c
 <p>
 Now I must create agents accounts that will act as an employee of a company. The agents answer tickets of clients that need technical support. Agents can be order to answer a ticket from management. The tickets can require immediate attention or can be address in a timely manner. Some companies have Service Level Agreements and SLA are a target the agent have to meet pertaining tickets such as
 <ul>
-  - How quickly a ticket is a assigned to an agent
-  - How quickly the agent initially reach out to the user who created the ticket
-  - How often the agent communicate with the user until the issue is solved
-  - How quickly the issue is solve
+ <li>How quickly a ticket is a assigned to an agent</li>
+ <li>How quickly the agent initially reach out to the user who created the ticket</li>
+ <li>How often the agent communicate with the user until the issue is solved</li>
+ <li>How quickly the issue is solve</li>
 </ul> 
 Tickets will often have a severity assigned to them which is defined by the organization, but the severity is usually related to the business impact. Severity often defines the SLA.
 <ul>
-  - Severity-A: High Impact(1hour, 24/7)
-  - Severity-B: Medium Impact(4hour, 24/7)
-  - Severity-C: Low Impact(8hour, Business hours)
+  <li>Severity-A: High Impact(1hour, 24/7)</li>
+  <li>Severity-B: Medium Impact(4hour, 24/7)</li>
+  <li>Severity-C: Low Impact(8hour, Business hours)</li>
 </ul>    
 </p>
 <br />
